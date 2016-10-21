@@ -27,7 +27,7 @@ class HomePage extends React.Component {
     return (
       <Layout className={s.content}>
         <div dangerouslySetInnerHTML={{ __html: html }} />
-        <h4>Articles</h4>
+        <h4>Articles-Test</h4>
         <ul>
           {this.props.articles.map((article, i) =>
             <li key={i}><a href={article.url}>{article.title}</a> by {article.author}</li>
