@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/scoreboard-app.iml
+.idea/workspace.xml
+docs/
